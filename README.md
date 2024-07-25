@@ -1,4 +1,4 @@
-vercel部署地址[vercek](https://rechen-blog.vercel.app/)
+vercel部署地址[https://rechen-blog.vercel.app/](https://rechen-blog.vercel.app/)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
